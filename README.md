@@ -1,2 +1,2 @@
 # Funny_Practice_Site
-A site I'm making to practice HTML and CSS with funny and stupid comments and links. 
+A website/collection of pages I'm making just for fun to practice HTML and CSS. Content will be irrelevant, but it will likely be stuff that makes my friends and I laugh. 
